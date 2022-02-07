@@ -24,7 +24,7 @@ namespace WindowsFormsApp2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("button2 was clicked");
+            MessageBox.Show("Вы уверены что хотите выйти?");
         }
     }
 }
