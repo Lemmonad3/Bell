@@ -19,12 +19,12 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("button1 was clicked");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("button2 was clicked");
         }
     }
 }
